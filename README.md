@@ -2,29 +2,35 @@ Smart Shop 🛍️
 A modern, full-featured e-commerce mobile application built with Flutter. Smart Shop demonstrates a clean, scalable architecture using Provider for state management, SharedPreferences for local persistence, and seamless integration with the FakeStore RESTful API.
 
 📸 Screenshots
-Login Screen
 
-Home Screen
+Login 
 
-Cart
+![Cart](sreenshots/login.jpeg)
+
+Home Light
+
+![Cart](sreenshots/light1.jpeg)
+
+Home Dark
+
+![Cart](sreenshots/dark1.jpeg)
+
+Cart Light
 
 ![Cart](sreenshots/light2.jpeg)
 
-<img src="https://i.ibb.co/8Dq0c9h/Screenshot-2025-07-20-011653.png" width="250">
-
-<img src="https://i.ibb.co/D8dYh0N/Screenshot-2025-07-20-012539.png" width="250">
-
 Favorites
 
-Dark Mode & Drawer
+![Cart](sreenshots/dark2.jpeg)
 
-Sorting Options
+Sorting
 
-<img src="https://i.ibb.co/hZ2vj5Y/Screenshot-2025-07-20-012736.png" width="250">
+![Cart](sreenshots/dark1.jpeg)
 
-<img src="https://i.ibb.co/zX04TjH/Screenshot-2025-07-20-012701.png" width="250">
+Shop Menu
 
-<img src="https://i.ibb.co/yQdK0Mh/Screenshot-2025-07-20-012620.png" width="250">
+![Cart](sreenshots/fav.jpeg)
+
 
 ✨ Features
 Full Authentication: Secure Login functionality powered by the FakeStore API.
