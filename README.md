@@ -8,7 +8,7 @@ Home Screen
 
 Cart
 
-<img src="https://i.ibb.co/Lz0T1gQ/image-609484.png" width="250">
+<img src="[https://i.ibb.co/Lz0T1gQ/image-609484.png](https://github.com/diptonath/smartshop/blob/main/sreenshots/light1.jpeg)" width="250">
 
 <img src="https://i.ibb.co/8Dq0c9h/Screenshot-2025-07-20-011653.png" width="250">
 
