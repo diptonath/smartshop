@@ -1,4 +1,4 @@
-# smartdukan
+# smartshop
 
 A new Flutter project.
 
